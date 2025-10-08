@@ -9,6 +9,21 @@
     sprite: _Crescent/Objects/Fun/Plushies/chudjak.rsi
     state: icon
   - type: Item
+<<<<<<< HEAD
+=======
+    sprite: _Crescent/Objects/Fun/Plushies/pearcat.rsi
+
+- type: entity
+  parent: BasePlushie
+  id: PlushieChudjak
+  name: chudjak plushie
+  description: What the fuck is this?
+  components:
+  - type: Sprite
+    sprite: _Crescent/Objects/Fun/Plushies/chudjak.rsi
+    state: icon
+  - type: Item
+>>>>>>> e2b27a48f77 (trolbom)
     sprite: _Crescent/Objects/Fun/Plushies/chudjak.rsi
 
 - type: entity
@@ -53,6 +68,7 @@
     sprite: _Crescent/Objects/Fun/Plushies/orange.rsi
     state: icon
   - type: Item
+<<<<<<< HEAD
     sprite: _Crescent/Objects/Fun/Plushies/orange.rsi
   - type: EmitSoundOnActivate
     sound:
@@ -92,3 +108,6 @@
   - "/Audio/_Crescent/Fun/OrangePlushCollection/orange5.ogg"
 =======
     sprite: _Crescent/Objects/Fun/Plushies/orange.rsi
+=======
+    sprite: _Crescent/Objects/Fun/Plushies/orange.rsi
+>>>>>>> e2b27a48f77 (trolbom)
