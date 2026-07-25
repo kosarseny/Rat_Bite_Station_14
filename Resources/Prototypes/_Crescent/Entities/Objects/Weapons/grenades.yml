@@ -42,7 +42,7 @@
   parent: GrenadeBase
   description: WHAT THE FUCK HAVE YOU DONE?????
   categories: [ HideSpawnMenu ]
-  id: TrollNadeProjectile 
+  id: TrollNadeProjectile
   components:
   - type: TriggerOnSpawn
   - type: Sprite
